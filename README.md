@@ -1,4 +1,4 @@
-#An E- Commerce application wants to manage the items Online. 
+# An E- Commerce application wants to manage the items Online. 
 
 # User Stories
 1. As an admin I will be able to add the products into the online store.
